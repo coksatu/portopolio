@@ -3,3 +3,5 @@ Transkip
 Jadwal
 Biodata
 Presensi
+Login
+logout
