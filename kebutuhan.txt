@@ -1,6 +1,5 @@
 Perwalian
 Transkip
 Jadwal
-Biodsklfhao
+Biodata
 Presensi
-Logout
